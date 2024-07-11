@@ -20,7 +20,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/naqvijavad/wa-number-extractor.git](https://github.com/naqvijavad/WA-Unknown-Number-Extractor.git)
+   git clone https://github.com/naqvijavad/wa-number-extractor.git
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by clicking the toggle switch in the top right corner.
 4. Click the "Load unpacked" button and select the directory where you cloned the repository.
